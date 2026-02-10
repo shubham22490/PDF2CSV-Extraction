@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+
+# Environment variable folders
+.env/
+**/.env/
+.env
+.env.*
